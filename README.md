@@ -1,2 +1,2 @@
-# Data-Science-Captstone
+# Data-Science-Capstone
 Notebooks for Capstone labs
